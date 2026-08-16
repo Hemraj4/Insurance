@@ -17,7 +17,7 @@ print(df.head())
 print(df.info())
 print(df.describe())
 
-# Data Cleaning
+# Data Cleaning 
 
 
 df_cleaned = df.copy()
